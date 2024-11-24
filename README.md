@@ -1,1 +1,5 @@
 # ts-email-service
+
+PARENT PROJECT
+
+RUN ONLY WITH ROOT PROJECT
