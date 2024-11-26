@@ -1,0 +1,1 @@
+rootProject.name = "ts-email-service"
